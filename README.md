@@ -32,7 +32,8 @@
 
 ## 📊 GitHub Stats
 
-![jihoonkim501's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim501&show_icons=true&theme=github_dark&cache_seconds=1800)
+![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jihoonkim501&show_icons=true&theme=dracula)
+
 
 ---
 
