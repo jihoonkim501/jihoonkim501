@@ -32,7 +32,10 @@
 
 ## 📊 GitHub Stats
 
-![Anurag's GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=jihoonkim501&show_icons=true&theme=dracula)
+<p align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihoonkim501&show_icons=true&theme=dracula" />
+</p>
+
 
 
 ---
