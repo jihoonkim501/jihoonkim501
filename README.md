@@ -52,7 +52,7 @@
 
 ## 🚀 Featured Projects
 
-### 💄 AI Makeup Simulator
+### 💄 AI Makeup Simulator ( 2024.09 ~ 2025.06 )
 > CSD-MT 기반 실시간 화장 시뮬레이션 플랫폼
 
 - **Stack**: FastAPI · Gradio · Docker · CSD-MT
@@ -62,13 +62,32 @@
 
 ---
 
-### ☁️ Kakao Enterprise Academy (Gridam)
+### ☁️ Kakao Enterprise Academy (Gridam) ( 2025.03 ~ 2025.06 )
 > MSA 인프라 & DevOps
 
 - Kubernetes 기반 서비스 디스커버리
 - Kong Gateway API 인증 및 라우팅
 - GitHub Actions CI/CD 구축
 - Prometheus + Grafana 모니터링
+
+---
+
+### ⚙️ HiO — RAG 기반 기업 실무 AI 챗봇 *(Backend)*
+**2025.06 ~ 2025.08**
+
+**Stack**
+- Kotlin · Spring Boot · PostgreSQL  
+- Docker · GitHub Actions · AWS S3
+
+**Key Contributions**
+- 문서 업로드, 버전 관리, 히스토리 로그를 포함한 **문서 관리 백엔드 API 설계·구현**
+- S3 연동 파일 업로드/삭제 및 **태그 기반 문서 분류 구조 설계**
+- **JWT + 쿠키 기반 인증 구조**를 직접 설계하여 보안성과 UX를 동시에 고려
+- Swagger 기반 API 명세를 정리하고, 프론트엔드와의 협업을 주도
+
+**Outcome**
+- 실제 운영이 가능한 **문서 기반 RAG 챗봇 백엔드 완성**
+- 확장성과 유지보수성을 고려한 **서비스 지향 아키텍처 설계 경험 확보**
 
 ---
 
