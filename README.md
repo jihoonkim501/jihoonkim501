@@ -25,7 +25,6 @@
 
 - 🎯 사용자 **경험과 재미**를 우선하는 개발자
 - ⚙️ Backend / Infra 중심의 **서비스 지향 설계**
-- ☁️ Kubernetes 기반 **MSA 인프라 설계 경험**
 - 🤖 AI 모델을 실제 서비스로 연결하는 실전 경험
 - 🔐 인증 · 보안 · 운영 환경까지 고려한 개발
 
@@ -34,8 +33,8 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_ID&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_ID&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=jihoonkim501&show_icons=true&theme=tokyonight&hide_border=true" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jihoonkim501&layout=compact&theme=tokyonight&hide_border=true" height="165"/>
 </p>
 
 ---
@@ -43,8 +42,8 @@
 ## 🌱 Algorithm
 
 <p align="center">
-  <a href="https://solved.ac/YOUR_BAEKJOON_ID">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=YOUR_BAEKJOON_ID"/>
+  <a href="https://solved.ac/momsh0501">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=momsh0501"/>
   </a>
 </p>
 
