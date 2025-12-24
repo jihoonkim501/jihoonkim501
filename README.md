@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim501)](https://github.com/anuraghazra/github-readme-stats)
+![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim501&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
