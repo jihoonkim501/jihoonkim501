@@ -32,7 +32,7 @@
 
 ## 📊 GitHub Stats
 
-![Jihoon's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim501&show_icons=true&theme=github_dark&cache_seconds=1800)
+![jihoonkim501's GitHub stats](https://github-readme-stats.vercel.app/api?username=jihoonkim501&show_icons=true&theme=github_dark&cache_seconds=1800)
 
 ---
 
