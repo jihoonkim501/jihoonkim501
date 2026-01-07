@@ -1,5 +1,5 @@
 <!-- 상단 인사 -->
-<h1 align="center"> 우당탕탕 백엔드 개발자 </h1>
+<h1 align="center"> 우당탕탕 백엔드 개발자 - 김지훈 </h1>
 <h3 align="center">Backend · Infra Developer</h3>
 
 <p align="center">
