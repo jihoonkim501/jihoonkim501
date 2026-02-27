@@ -23,10 +23,10 @@
 
 ## 🧑‍💻 Experience
 
-- 가천대학교 인공지능학과 ( 2022.03 ~)
-- Kakao Enterprise Academy 6기 ( 2025.03 ~ 2025.06 )
+- 가천대학교 인공지능학과 ( 2022.03 ~ 휴학 )
+- Kakao Enterprise Academy 6기 ( 2025.03 ~ 2025.08 )
 - DKTechin 기업실무 ( 2025.06 ~ 2025.08 )
-- UMC 9기 — Spring Boot Senior ( 2025.09 ~ 2026.02 )
+- <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring ( 2025.09 ~ 2026.02 )<br/>
 - Project: Nova ( 2025.09 ~ )
 
 ---
