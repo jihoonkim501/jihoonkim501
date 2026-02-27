@@ -21,12 +21,13 @@
 
 ---
 
-## 🧑‍💻 About Me
+## 🧑‍💻 Experience
 
-- 🎯 사용자 **경험과 재미**를 우선하는 개발자
-- ⚙️ Backend / Infra 중심의 **서비스 지향 설계**
-- 🤖 AI 모델을 실제 서비스로 연결하는 실전 경험
-- 🔐 인증 · 보안 · 운영 환경까지 고려한 개발
+- 가천대학교 인공지능학과 ( 2022.03 ~)
+- Kakao Enterprise Academy 6기 ( 2025.03 ~ 2025.06 )
+- DKTechin 기업실무 ( 2025.06 ~ 2025.08 )
+- UMC 9기 — Spring Boot Senior ( 2025.09 ~ 2026.02 )
+- Project: Nova ( 2025.09 ~ )
 
 ---
 
@@ -53,7 +54,7 @@
 ## 🚀 Featured Projects
 
 ### 💄 AI Makeup Simulator ( 2024.09 ~ 2025.06 )
-> CSD-MT 기반 실시간 화장 시뮬레이션 플랫폼
+> Fullstack & AI 
 
 - **Stack**: FastAPI · Gradio · Docker · CSD-MT
 - 실시간 메이크업 전이 및 스타일 비교
@@ -70,11 +71,12 @@
 - GitHub Actions CI/CD 구축
 - Prometheus + Grafana 모니터링
 
+🔗 https://www.notion.so/NILO-1b3bb424442b80778b9cd1b039e4bac5
+
 ---
 
-### ⚙️ HiO — RAG 기반 기업 실무 AI 챗봇 *(Backend)*
-**2025.06 ~ 2025.08**
-
+### ⚙️ DKTechin PBL — RAG 기반 기업 실무 AI 챗봇 (HiO) ( 2025.06 ~ 2025.08 )
+> Backend
 **Stack**
 - Kotlin · Spring Boot · PostgreSQL  
 - Docker · GitHub Actions · AWS S3
@@ -89,22 +91,37 @@
 - 실제 운영이 가능한 **문서 기반 RAG 챗봇 백엔드 완성**
 - 확장성과 유지보수성을 고려한 **서비스 지향 아키텍처 설계 경험 확보**
 
+🔗 https://www.notion.so/22539de5084a8062a13ee2660454700b?v=22539de5084a80a4965c000c3a4922aa
+
 ---
 
-### 🧠 EconFlip (UMC Hackathon)
-> OAuth2 + JWT 인증 구조 설계
-
+### 🧠 EconFlip (UMC Hackathon) ( 2025.12.12 ~ 2025.12.21 )
+### 🏆 1위 
+> Backend
 - 소셜 로그인 중심 인증 흐름
 - Access / Refresh Token 쿠키 관리
 - Stateless 환경 SecurityContext 재구성
 - HTTPS / CORS / SameSite 이슈 해결
 
-🔗 https://econflip.vercel.app/
+🔗 https://www.notion.so/C-3149bffd7c0481bcbcd3d36529c81165?source=copy_link
+
+---
+
+### ✨ 아름답 (UMC DemoDay) ( 2025.12 ~ 2026.02 )
+### 🏆 최우수상
+> 인프라 + AI 프롬프팅 엔지니어링 + Backend
+
+- CI/CD , Docker + CodeDeploy + EC2 + RDS 구성
+- AI 프롬프팅 엔지니어링 (챗봇 응답 성능향상)
+- 기본적인 백엔드 CRUD 기능 구현
+- QA 및 유지보수
+
+🔗 https://www.notion.so/2abd17225e8b80fab9d2cb2f3af68baf
 
 ---
 
 ### 👗 Project:Nova (여백) *(In Progress)*
-> AI 옷장 서비스 인증 백엔드
+> Backend
 
 - OAuth2 중심 로그인 구조
 - JWT + Cookie 기반 인증
