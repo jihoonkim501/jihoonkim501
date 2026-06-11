@@ -118,17 +118,6 @@
 
 🔗 https://www.notion.so/2abd17225e8b80fab9d2cb2f3af68baf
 
----
-
-### 👗 Project:Nova (여백) *(In Progress)*
-> Backend
-
-- OAuth2 중심 로그인 구조
-- JWT + Cookie 기반 인증
-- 확장 가능한 인증 도메인 설계
-- AI 서비스 확장을 고려한 구조
-
----
 
 ## 🧰 Tech Stack
 
