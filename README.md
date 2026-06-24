@@ -27,6 +27,7 @@
 - Kakao Enterprise Academy 6기 ( 2025.03 ~ 2025.08 )
 - DKTechin 기업실무 ( 2025.06 ~ 2025.08 )
 - <a href="https://umc.makeus.in/" rel="nofollow">IT 연합 사이드 프로젝트 동아리 UMC</a> 9th Spring ( 2025.09 ~ 2026.02 )<br/>
+- <a href="https://www.leets.land/" rel="nofollow">IT 창업 동아리 Leets </a> 7th Backend ( 2026.03 ~ ing )<br/>
 
 ---
 
