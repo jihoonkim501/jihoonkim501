@@ -33,9 +33,21 @@
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=jihoonkim501&show_icons=true&theme=dracula" />
-</p>
+<table>
+<tr>
+
+<td align="center" width="50%">
+  <a href="https://www.gitanimals.org/">
+    <img src="https://render.gitanimals.org/farms/jihoonkim501" width="100%"/>
+  </a>
+</td>
+
+<td align="center" width="50%">
+  <img src="https://github-readme-stats-amber-tau-13.vercel.app/api?username=jihoonkim501&show_icons=true&theme=catppuccin_mocha&count_private=true&hide_border=true" width="100%"/>
+</td>
+
+</tr>
+</table>
 
 
 
