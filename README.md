@@ -86,7 +86,7 @@
 - Stateless 환경 SecurityContext 재구성
 - HTTPS / CORS / SameSite 이슈 해결
 
-🔗 [프로젝트 문서](https://www.notion.so/C-3149bffd7c0481bcbcd3d36529c81165?source=copy_link)
+🔗 [GitHub Repository](https://github.com/Gachon-UMC-9th-hackathon-TEAM-C)
 
 <br/>
 
@@ -98,7 +98,7 @@
 - 백엔드 CRUD 기능 구현
 - QA 및 유지보수
 
-🔗 [프로젝트 문서](https://www.notion.so/2abd17225e8b80fab9d2cb2f3af68baf)
+🔗 [GitHub Repository](https://github.com/AreumDap)
 
 <br/>
 
@@ -113,7 +113,7 @@
 - CI/CD 및 서버 배포 환경 구성
 - QA 및 유지보수
 
-🔗 [프로젝트 문서](https://app.notion.com/p/Job-is-3632e0416c20808c9a64c9d829c1fb3d)
+🔗 [GitHub Repository](https://github.com/Leets-Official/Job-is-BE)
 
 <br/>
 
