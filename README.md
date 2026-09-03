@@ -59,7 +59,7 @@
 - GitHub Actions CI/CD 구축
 - Prometheus + Grafana 모니터링 구축
 
-🔗 [프로젝트 문서](https://www.notion.so/NILO-1b3bb424442b80778b9cd1b039e4bac5)
+🔗 [GitHub Repository](https://github.com/KakaoEnterprise-NILO/GriDam-BE)
 
 <br/>
 
@@ -74,7 +74,7 @@
 
 **Stack** Kotlin · Spring Boot · PostgreSQL · Docker · GitHub Actions · AWS S3
 
-🔗 [프로젝트 문서](https://www.notion.so/22539de5084a8062a13ee2660454700b?v=22539de5084a80a4965c000c3a4922aa)
+🔗 [GitHub Repository](https://github.com/dktechin-pbl/HiO-BE)
 
 <br/>
 
